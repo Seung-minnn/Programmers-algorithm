@@ -12,15 +12,16 @@
 | ------------- | ------------- |:-------------:|
 | | [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | [cpp]() |
 | | [크레인 인형뽑기 게임]() | [cpp]() |
-| :heavy_check_mark: | [최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) | [sql]() |
+| :heavy_check_mark: | [최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) | [sql](Programmers-algorithm/Programmers/Lv1/최댓값구하기.sql) |
 | :heavy_check_mark: | [모든 레코드 조회하기]() | [sql]() |
 | | [소수의 합](https://programmers.co.kr/learn/courses/30/lessons/14406) | [cpp](Programmers/Lv1/Lv1_소수의합.cpp)| 
 
 
 
 ## Lv2
-| 문제 | 코드 |
-| ------------- |:-------------:|
+| 체크 | 문제 | 코드 |
+| ------------- | ------------- |:-------------:|
+| :heavy_check_mark: | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [py](Programmers-algorithm/Programmers/Lv2/주식가격.py) |
 | [탑](https://programmers.co.kr/learn/courses/30/lessons/42588) | [cpp](Programmers/Lv2/Lv2_탑.cpp), [py](Programmers/Lv2/Lv2_탑.py)|
 | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [cpp](Programmers/Lv2/Lv2_스킬트리.cpp), [py](Programmers/Lv2/Lv2_스킬트리.py)|
 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [cpp](Programmers/Lv2/Lv2_124나라의숫자.cpp), [py](Programmers/Lv2/Lv2_124나라의숫자.py)|
