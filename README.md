@@ -8,9 +8,9 @@
 ## Lv1
 | 체크 | 문제 | 코드 |
 | ------------- | ------------- |:-------------:|
-| [] | [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | [cpp]() |
+| ] | [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644) | [cpp]() |
 | [] | [크레인 인형뽑기 게임]() | [cpp]() |
-| - [x] | [최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) | [sql]() |
+| [x] | [최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) | [sql]() |
 | [x] | [모든 레코드 조회하기]() | [sql]() |
 | [] | [소수의 합](https://programmers.co.kr/learn/courses/30/lessons/14406) | [cpp](Programmers/Lv1/Lv1_소수의합.cpp)| 
 
