@@ -28,12 +28,12 @@
 ## Lv2
 | 체크 | 문제 | 코드 | 풀이 |
 | ------------- | ------------- | ------------- |:-------------:|
+| :heavy_check_mark: | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [cpp](Programmers/Lv2/소수찾기.cpp) | 완전탐색 |
 | :heavy_check_mark: | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [py](Programmers/Lv2/주식가격.py) | 스택/큐 |
 | :heavy_check_mark: | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [py](Programmers/Lv2/기능개발.py) | 스택/큐 |
 | :heavy_check_mark: | [프린터]() | [cpp](Programmers/Lv/.cpp) | 스택/큐 |
 | :heavy_check_mark: | [다리를 지나는 트럭]() | [cpp](Programmers/Lv/.cpp) | 스택/큐 |
 | :heavy_check_mark: | [가장 큰 수]() | [cpp](Programmers/Lv/.cpp) | 정렬 |
-| :heavy_check_mark: | [소수 찾기]() | [cpp](Programmers/Lv/.cpp) | 완전탐색 |
 | :heavy_check_mark: | [H-Index]() | [cpp](Programmers/Lv/.cpp) | 정렬 |
 | :heavy_check_mark: | [전화번호 목록 ]() | [cpp](Programmers/Lv/.cpp) | 해시 |
 | :heavy_check_mark: | [위장]() | [cpp](Programmers/Lv/.cpp) | 해시 |
