@@ -7,6 +7,7 @@
 | :heavy_check_mark: | []() | [cpp](Programmers/Lv/.cpp) | |
 
 
+
 ## Lv1
 | 체크 | 문제 | 코드 | 풀이 |
 | ------------- | ------------- | ------------- |:-------------:|
@@ -57,6 +58,7 @@
 ## Lv3
 | 체크 | 문제 | 코드 | 풀이 |
 | ------------- | ------------- | ------------- |:-------------:|
+| :heavy_check_mark: | [불량사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) | [cpp](Programmers/Lv3/불량사용자.cpp) | DFS |
 | :heavy_check_mark: | [네트워크]() | [cpp](Programmers/Lv/.cpp) | DFS/BFS |
 | :heavy_check_mark: | [단어 변환]() | [cpp](Programmers/Lv/.cpp) | DFS/BFS |
 | :heavy_check_mark: | [여행경로]() | [cpp](Programmers/Lv/.cpp) | DFS/BFS |
